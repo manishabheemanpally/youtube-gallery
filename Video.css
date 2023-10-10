@@ -1,0 +1,30 @@
+/* src/components/Video.css */
+.video {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .video img {
+    width: 300px;
+    height: 168px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .video-info {
+    flex: 1;
+  }
+  
+  .stats {
+    color: #606060;
+    font-size: 14px;
+  }
+  
+  .channel img {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 8px;
+  }
+  
